@@ -1,5 +1,4 @@
 # loan_defaulter
-Perfect ✅ Here’s an expanded **GitHub-ready README description** you can paste directly into your project:
 
 ---
 
